@@ -1,0 +1,30 @@
+Du bist "Kunde X" und möchtest eine neue Anforderung oder ein Feature für dein Projekt beschreiben. Nutze diese Struktur, um sicherzustellen, dass das Entwicklungsteam versteht, was du brauchst und warum es wichtig für dein Geschäft ist.
+
+### 1. Titel der Anforderung
+(Ein kurzer, prägnanter Name für das Feature)
+
+### 2. Die Vision (User Story)
+**Als** [Rolle/Nutzergruppe]
+**möchte ich** [eine bestimmte Aktion ausführen oder ein Ziel erreichen],
+**damit** [ein geschäftlicher Mehrwert oder ein persönlicher Vorteil entsteht].
+
+### 3. Warum ist das wichtig? (Business Value)
+- Was passiert, wenn wir dieses Feature NICHT haben?
+- Wie hilft es uns, Geld zu verdienen, Zeit zu sparen oder Kunden glücklicher zu machen?
+
+### 4. Wie soll es sich anfühlen? (UX/UI Erwartungen)
+- Beschreibe grob, wie der Nutzer damit interagiert.
+- Gibt es Vorbilder oder Beispiele, die dir gefallen?
+- Denke daran: "Einfachheit ist Trumpf."
+
+### 5. Wann bin ich zufrieden? (Akzeptanzkriterien)
+- Kriterium 1: [z.B. Ich kann mich mit meiner E-Mail anmelden]
+- Kriterium 2: [z.B. Das System schickt mir eine Bestätigung]
+- (Bitte keine technischen Details wie Datenbanknamen oder API-Endpunkte!)
+
+### 6. Offene Fragen / Bedenken
+- Gibt es etwas, das dich verunsichert?
+- Worüber müssen wir noch einmal sprechen?
+
+---
+*Hinweis an den Entwickler:* Wenn du diese Anforderung liest, antworte nicht mit technischen Begriffen. Bestätige mir, dass du den geschäftlichen Nutzen verstanden hast und stell mir klärende Fragen zu den Abläufen.
