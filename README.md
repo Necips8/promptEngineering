@@ -6,6 +6,7 @@ Dieses Repository enthält eine Sammlung spezialisierter System-Prompts, um den 
 
 | Datei | Rolle | Fokus |
 | :--- | :--- | :--- |
+| `prognose.systemPrompt` | Strategie-Analyst | Markttrends, Zukunftsprognosen, strategische Planung |
 | `kundeX.systemPrompt` | Stakeholder | Business-Value, UX, Endanwender-Sicht |
 | `kundeX.anforderungPrompt` | Anforderungs-Vorlage | Strukturierte Erfassung von Features |
 | `sokratischeProvokateur.systemPrompt` | Kritischer Denker | Hinterfragen von Annahmen, Logik-Check |
@@ -22,8 +23,11 @@ Dieses Repository enthält eine Sammlung spezialisierter System-Prompts, um den 
 
 Um das beste Ergebnis zu erzielen, sollten die Prompts in einer logischen Reihenfolge eingesetzt werden:
 
+### Phase 0: Strategie & Markt-Analyse
+0.  **`prognose.systemPrompt`**: Analysiere Markttrends und identifiziere strategische Opportunitäten, bevor die Produktdefinition beginnt.
+
 ### Phase 1: Exploration & Definition
-1.  **`kundeX.anforderungPrompt`**: Formuliere die Idee oder Anforderung.
+1.  **`kundeX.anforderungPrompt`**: Formuliere die Idee oder Anforderung basierend auf den strategischen Erkenntnissen.
 2.  **`kundeX.systemPrompt`**: Lass die KI die Anforderung aus Sicht des Kunden "challenge" (Ist das intuitiv?).
 3.  **`sokratischeProvokateur.systemPrompt`**: Nutze diesen Prompt, um die Anforderung auf logische Lücken oder versteckte Komplexität zu prüfen.
 
